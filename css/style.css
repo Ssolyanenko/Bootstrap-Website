@@ -1,0 +1,55 @@
+/*Your code goes here*/
+
+.container {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-nav {
+    margin: 0 auto;
+}
+
+.d-flex {
+    background-color: rgb(29, 29, 29);
+    color: #fff;
+}
+
+button.btn.btn-outline-success {
+    color: #fff;
+
+}
+
+button.btn.btn-secondary,
+button.btn.btn-primary {
+    color: #fff;
+    background-color: coral;
+    border: 1px solid coral;
+}
+
+#games-first {
+    background-color: #525252;
+    color: #fff;
+}
+
+#games-first div.card-body {
+    background-color: #525252;
+
+}
+
+div.card {
+    border: none;
+
+}
+
+#games-second {
+    background-color: rgb(250, 250, 250);
+}
+
+#games-second div.card-body {
+    background-color: rgb(250, 250, 250);
+
+}
+
+footer {
+    background-color: #525252;
+    color: #fff;
+}
